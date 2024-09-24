@@ -1,0 +1,1 @@
+This repository holds the marine microbiome metadata mapping files for both the IMOS National Reference Stations and the coastal stations. These files are the point of truth for sample mapping. If errors are detected, please create an issue. 
