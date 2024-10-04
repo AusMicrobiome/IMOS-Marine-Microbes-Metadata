@@ -1,4 +1,4 @@
-Sample_ID,Extraction Number,imos_project,nrs_sample_code,Sample_volume_L,Sample_volume_notes_(controlled_vocab_11),Sample_integrity_warnings_(controlled_vocab_12),notes,DNA_concentration_(ng/ul)_submitter,DNA_concentration_method_(submitter),Absorbance_268_280_ratio_submitter,Absorbance_268_280_ratio_method_(submitter)
+Sample_ID,Extraction Number,imos_project,nrs_sample_code,Sample_volume_L,Sample_volume_notes_(controlled_vocab_11),Sample_integrity_warnings_(controlled_vocab_12),notes,DNA_concentration_(ng/ul)_submitter,DNA_concentration_method_(submitter),Absorbance_260_280_ratio_submitter,Absorbance_260_280_ratio_method_(submitter)
 102.100.100/139714,519,NRS,DAR20171009_0,0.75,High biomass/particulate matter,,,,,,
 102.100.100/139715,520,NRS,DAR20180509_0,1,High biomass/particulate matter,,,,,,
 102.100.100/139716,521,NRS,DAR20181030_0,0.7,High biomass/particulate matter,,,,,,
