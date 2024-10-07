@@ -2498,7 +2498,7 @@ Sample_ID,Extraction Number,imos_project,nrs_sample_code,Sample_volume_L,Sample_
 102.100.100/403699,3232,NRS,KAI20231026_100,,,,,2.37,meth_3.3.3,,
 102.100.100/403700,3233,NRS,DAR20230524_2130_0,,,,,3.6,meth_3.3.3,,
 102.100.100/403701,3235,NRS,DAR20230524_2130_17,,,,,7.06,meth_3.3.3,,
-102.100.100/403702,3245,NRS,NSI20230625_0,,,,WARNING: Sample mislabelled (month of collection) in lab but has been corrected | labelled in lab as 05(May) but sample is 06(June),9.2,meth_3.3.3,,
+102.100.100/403702,3245,NRS,NSI20230625_0,,,,WARNING: Sample mislabelled (month of collection). Month labelled in lab as 05(May) correct sample collection month 06(June).Metadata corrected and replaced in AM database 2024-Oct-08,9.2,meth_3.3.3,,
 102.100.100/403703,3246,NRS,NSI20230525_50,,,,,6.18,meth_3.3.3,,
 102.100.100/403705,3311,NRS,DAR20231213_2130_18,,,,,10.5,meth_3.3.3,,
 102.100.100/403706,3279,NRS,KAI20230517_20,,,,,3.13,meth_3.3.3,,
