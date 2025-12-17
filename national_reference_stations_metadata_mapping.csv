@@ -433,8 +433,8 @@ sample_id,source_mat_id,Extraction Number,imos_project,nrs_sample_code,samp_size
 102.100.100/27027,102.100.100/27027,,NRS,MAI20121017_85,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,4.525,meth_3.3.1,3.26,meth_3.3.1,1
 102.100.100/27028,102.100.100/27028,,NRS,MAI20121112_10,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,4.21,meth_3.3.1,1.45,meth_3.3.1,1
 102.100.100/27029,102.100.100/27029,,NRS,MAI20121112_20,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,4.195,meth_3.3.1,1.88,meth_3.3.1,1
-102.100.100/27030,102.100.100/27030,,NRS,MAI20121112_40,2,Other - not recorded in field log sheets| assume 2 L as per protocol,"WARNING: Samples mislabelled (depth of sample) | Samples 102.100.100/27030 and 102.100.100/27031 were both labelled as 40 m, one of these should be the surface (0 m) sample",,-9999,-9999,-9999,-9999,9
-102.100.100/27031,102.100.100/27031,,NRS,MAI20121112_40,2,Other - not recorded in field log sheets| assume 2 L as per protocol,"WARNING: Samples mislabelled (depth of sample) | Samples 102.100.100/27030 and 102.100.100/27031 were both labelled as 40 m, one of these should be the surface (0 m) sample",,-9999,-9999,-9999,-9999,9
+102.100.100/27030,102.100.100/27030,,NRS,MAI20121112_40,2,Other - not recorded in field log sheets| assume 2 L as per protocol,WARNING: Samples mislabelled (depth of sample) | Samples 102.100.100/27030 and 102.100.100/27031 were both labelled as 40 m; one of these should be the surface (0 m) sample,,-9999,-9999,-9999,-9999,9
+102.100.100/27031,102.100.100/27031,,NRS,MAI20121112_40,2,Other - not recorded in field log sheets| assume 2 L as per protocol,WARNING: Samples mislabelled (depth of sample) | Samples 102.100.100/27030 and 102.100.100/27031 were both labelled as 40 m; one of these should be the surface (0 m) sample,,-9999,-9999,-9999,-9999,9
 102.100.100/27032,102.100.100/27032,,NRS,MAI20121112_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,5.485,meth_3.3.1,1.79,meth_3.3.1,1
 102.100.100/27033,102.100.100/27033,,NRS,MAI20121112_75,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,1.405,meth_3.3.1,2.63,meth_3.3.1,1
 102.100.100/27034,102.100.100/27034,,NRS,MAI20121112_82,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,2.975,meth_3.3.1,1.91,meth_3.3.1,1
@@ -1710,12 +1710,12 @@ sample_id,source_mat_id,Extraction Number,imos_project,nrs_sample_code,samp_size
 102.100.100/27459,102.100.100/27459,,NRS,PHB20130915_25,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,5.217,meth_3.3.1,4.49,meth_3.3.1,1
 102.100.100/27460,102.100.100/27460,,NRS,PHB20130915_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,3.754,meth_3.3.1,2.13,meth_3.3.1,1
 102.100.100/27461,102.100.100/27461,,NRS,PHB20130915_75,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,1.333,meth_3.3.1,1.98,meth_3.3.1,1
-102.100.100/27462,102.100.100/27462,,NRS,PHB20131020_0,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp.",15.01,meth_3.3.1,2,meth_3.3.1,1
-102.100.100/27463,102.100.100/27463,,NRS,PHB20131020_10,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp.",16.56,meth_3.3.1,2.02,meth_3.3.1,1
-102.100.100/27464,102.100.100/27464,,NRS,PHB20131020_100,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp.",4.72,meth_3.3.1,1.86,meth_3.3.1,1
-102.100.100/27465,102.100.100/27465,,NRS,PHB20131020_25,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp.",2.439,meth_3.3.1,5.96,meth_3.3.1,1
-102.100.100/27466,102.100.100/27466,,NRS,PHB20131020_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp.",9.355,meth_3.3.1,2.66,meth_3.3.1,1
-102.100.100/27467,102.100.100/27467,,NRS,PHB20131020_75,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp.",5.2,meth_3.3.1,1.57,meth_3.3.1,1
+102.100.100/27462,102.100.100/27462,,NRS,PHB20131020_0,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.,15.01,meth_3.3.1,2,meth_3.3.1,1
+102.100.100/27463,102.100.100/27463,,NRS,PHB20131020_10,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.,16.56,meth_3.3.1,2.02,meth_3.3.1,1
+102.100.100/27464,102.100.100/27464,,NRS,PHB20131020_100,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.,4.72,meth_3.3.1,1.86,meth_3.3.1,1
+102.100.100/27465,102.100.100/27465,,NRS,PHB20131020_25,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.,2.439,meth_3.3.1,5.96,meth_3.3.1,1
+102.100.100/27466,102.100.100/27466,,NRS,PHB20131020_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.,9.355,meth_3.3.1,2.66,meth_3.3.1,1
+102.100.100/27467,102.100.100/27467,,NRS,PHB20131020_75,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.,5.2,meth_3.3.1,1.57,meth_3.3.1,1
 102.100.100/27468,102.100.100/27468,,NRS,PHB20131202_0,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - Sappharina sp.,8.681,meth_3.3.1,2.14,meth_3.3.1,1
 102.100.100/27469,102.100.100/27469,,NRS,PHB20131202_10,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - Sappharina sp.,3.269,meth_3.3.1,2.37,meth_3.3.1,1
 102.100.100/27470,102.100.100/27470,,NRS,PHB20131202_100,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - Sappharina sp.,3.311,meth_3.3.1,2.02,meth_3.3.1,1
@@ -1764,18 +1764,18 @@ sample_id,source_mat_id,Extraction Number,imos_project,nrs_sample_code,samp_size
 102.100.100/27507,102.100.100/27507,,NRS,PHB20140716_25,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - Sappharina sp.,8.549,meth_3.3.1,2.6,meth_3.3.1,1
 102.100.100/27508,102.100.100/27508,,NRS,PHB20140716_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - Sappharina sp.,5.784,meth_3.3.1,1.69,meth_3.3.1,1
 102.100.100/27509,102.100.100/27509,,NRS,PHB20140716_75,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - Sappharina sp.,13.56,meth_3.3.1,1.65,meth_3.3.1,1
-102.100.100/27510,102.100.100/27510,,NRS,PHB20140824_0,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp.",22.31,meth_3.3.1,1.81,meth_3.3.1,1
-102.100.100/27511,102.100.100/27511,,NRS,PHB20140824_10,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp.",18.31,meth_3.3.1,1.72,meth_3.3.1,1
-102.100.100/27512,102.100.100/27512,,NRS,PHB20140824_100,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp.",4.627,meth_3.3.1,2.23,meth_3.3.1,1
-102.100.100/27513,102.100.100/27513,,NRS,PHB20140824_25,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp.",6.911,meth_3.3.1,2.36,meth_3.3.1,1
-102.100.100/27514,102.100.100/27514,,NRS,PHB20140824_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp.",8.831,meth_3.3.1,1.61,meth_3.3.1,1
-102.100.100/27515,102.100.100/27515,,NRS,PHB20140824_75,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp.",4.637,meth_3.3.1,1.98,meth_3.3.1,1
-102.100.100/27516,102.100.100/27516,,NRS,PHB20140911_0,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp., Noctiluca",13.35,meth_3.3.1,1.83,meth_3.3.1,1
-102.100.100/27517,102.100.100/27517,,NRS,PHB20140911_10,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp., Noctiluca",14.66,meth_3.3.1,1.8,meth_3.3.1,1
-102.100.100/27518,102.100.100/27518,,NRS,PHB20140911_100,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp., Noctiluca",7.596,meth_3.3.1,1.8,meth_3.3.1,1
-102.100.100/27519,102.100.100/27519,,NRS,PHB20140911_25,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp., Noctiluca",16.06,meth_3.3.1,2.58,meth_3.3.1,1
-102.100.100/27520,102.100.100/27520,,NRS,PHB20140911_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp., Noctiluca",15.76,meth_3.3.1,1.82,meth_3.3.1,1
-102.100.100/27521,102.100.100/27521,,NRS,PHB20140911_75,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - salps, Sappharina sp., Noctiluca",16.56,meth_3.3.1,1.7,meth_3.3.1,1
+102.100.100/27510,102.100.100/27510,,NRS,PHB20140824_0,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.,22.31,meth_3.3.1,1.81,meth_3.3.1,1
+102.100.100/27511,102.100.100/27511,,NRS,PHB20140824_10,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.,18.31,meth_3.3.1,1.72,meth_3.3.1,1
+102.100.100/27512,102.100.100/27512,,NRS,PHB20140824_100,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.,4.627,meth_3.3.1,2.23,meth_3.3.1,1
+102.100.100/27513,102.100.100/27513,,NRS,PHB20140824_25,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.,6.911,meth_3.3.1,2.36,meth_3.3.1,1
+102.100.100/27514,102.100.100/27514,,NRS,PHB20140824_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.,8.831,meth_3.3.1,1.61,meth_3.3.1,1
+102.100.100/27515,102.100.100/27515,,NRS,PHB20140824_75,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.,4.637,meth_3.3.1,1.98,meth_3.3.1,1
+102.100.100/27516,102.100.100/27516,,NRS,PHB20140911_0,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.; Noctiluca,13.35,meth_3.3.1,1.83,meth_3.3.1,1
+102.100.100/27517,102.100.100/27517,,NRS,PHB20140911_10,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.; Noctiluca,14.66,meth_3.3.1,1.8,meth_3.3.1,1
+102.100.100/27518,102.100.100/27518,,NRS,PHB20140911_100,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.; Noctiluca,7.596,meth_3.3.1,1.8,meth_3.3.1,1
+102.100.100/27519,102.100.100/27519,,NRS,PHB20140911_25,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.; Noctiluca,16.06,meth_3.3.1,2.58,meth_3.3.1,1
+102.100.100/27520,102.100.100/27520,,NRS,PHB20140911_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.; Noctiluca,15.76,meth_3.3.1,1.82,meth_3.3.1,1
+102.100.100/27521,102.100.100/27521,,NRS,PHB20140911_75,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - salps; Sappharina sp.; Noctiluca,16.56,meth_3.3.1,1.7,meth_3.3.1,1
 102.100.100/27522,102.100.100/27522,,NRS,PHB20141021_0,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,19.12,meth_3.3.1,1.89,meth_3.3.1,1
 102.100.100/27523,102.100.100/27523,,NRS,PHB20141021_10,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,19.68,meth_3.3.1,2.05,meth_3.3.1,1
 102.100.100/27524,102.100.100/27524,,NRS,PHB20141021_100,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,9.684,meth_3.3.1,2.08,meth_3.3.1,1
@@ -1788,12 +1788,12 @@ sample_id,source_mat_id,Extraction Number,imos_project,nrs_sample_code,samp_size
 102.100.100/27531,102.100.100/27531,,NRS,PHB20141112_25,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,15.46,meth_3.3.1,2.67,meth_3.3.1,1
 102.100.100/27532,102.100.100/27532,,NRS,PHB20141112_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,19.29,meth_3.3.1,1.89,meth_3.3.1,1
 102.100.100/27533,102.100.100/27533,,NRS,PHB20141112_75,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,9.831,meth_3.3.1,1.92,meth_3.3.1,1
-102.100.100/27534,102.100.100/27534,,NRS,PHB20141208_0,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - Sappharina sp., lawn grass and plastic in zooplankton tow (not sampling contamination)",22.06,meth_3.3.1,1.82,meth_3.3.1,1
-102.100.100/27535,102.100.100/27535,,NRS,PHB20141208_10,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - Sappharina sp., lawn grass and plastic in zooplankton tow (not sampling contamination)",15.65,meth_3.3.1,1.85,meth_3.3.1,1
-102.100.100/27536,102.100.100/27536,,NRS,PHB20141208_100,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - Sappharina sp., lawn grass and plastic in zooplankton tow (not sampling contamination)",5.626,meth_3.3.1,1.5,meth_3.3.1,1
-102.100.100/27537,102.100.100/27537,,NRS,PHB20141208_25,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - Sappharina sp., lawn grass and plastic in zooplankton tow (not sampling contamination)",28.21,meth_3.3.1,2.18,meth_3.3.1,1
-102.100.100/27538,102.100.100/27538,,NRS,PHB20141208_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - Sappharina sp., lawn grass and plastic in zooplankton tow (not sampling contamination)",9.652,meth_3.3.1,1.55,meth_3.3.1,1
-102.100.100/27539,102.100.100/27539,,NRS,PHB20141208_75,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"Sampling observations - Sappharina sp., lawn grass and plastic in zooplankton tow (not sampling contamination)",3.716,meth_3.3.1,1.81,meth_3.3.1,1
+102.100.100/27534,102.100.100/27534,,NRS,PHB20141208_0,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - Sappharina sp.; lawn grass and plastic in zooplankton tow (not sampling contamination),22.06,meth_3.3.1,1.82,meth_3.3.1,1
+102.100.100/27535,102.100.100/27535,,NRS,PHB20141208_10,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - Sappharina sp.; lawn grass and plastic in zooplankton tow (not sampling contamination),15.65,meth_3.3.1,1.85,meth_3.3.1,1
+102.100.100/27536,102.100.100/27536,,NRS,PHB20141208_100,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - Sappharina sp.; lawn grass and plastic in zooplankton tow (not sampling contamination),5.626,meth_3.3.1,1.5,meth_3.3.1,1
+102.100.100/27537,102.100.100/27537,,NRS,PHB20141208_25,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - Sappharina sp.; lawn grass and plastic in zooplankton tow (not sampling contamination),28.21,meth_3.3.1,2.18,meth_3.3.1,1
+102.100.100/27538,102.100.100/27538,,NRS,PHB20141208_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - Sappharina sp.; lawn grass and plastic in zooplankton tow (not sampling contamination),9.652,meth_3.3.1,1.55,meth_3.3.1,1
+102.100.100/27539,102.100.100/27539,,NRS,PHB20141208_75,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,Sampling observations - Sappharina sp.; lawn grass and plastic in zooplankton tow (not sampling contamination),3.716,meth_3.3.1,1.81,meth_3.3.1,1
 102.100.100/27540,102.100.100/27540,,NRS,PHB20150121_0,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,48.96,meth_3.3.1,1.92,meth_3.3.1,1
 102.100.100/27541,102.100.100/27541,,NRS,PHB20150121_10,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,49.45,meth_3.3.1,2.01,meth_3.3.1,1
 102.100.100/27542,102.100.100/27542,,NRS,PHB20150121_100,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,10.65,meth_3.3.1,2.15,meth_3.3.1,1
@@ -1882,7 +1882,7 @@ sample_id,source_mat_id,Extraction Number,imos_project,nrs_sample_code,samp_size
 102.100.100/139873,102.100.100/139873,255,NRS,PHB20160615_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,-9999,-9999,-9999,-9999,1
 102.100.100/35259,102.100.100/35259,,NRS,PHB20160719_0,2,Other - not recorded in field log sheets| assume 2 L as per protocol,WARNING: Storage or transport conditions compromised,Sampling observations - Sappharina sp.,-9999,-9999,-9999,-9999,1
 102.100.100/35260,102.100.100/35260,,NRS,PHB20160719_10,2,Other - not recorded in field log sheets| assume 2 L as per protocol,WARNING: Storage or transport conditions compromised,Sampling observations - Sappharina sp.,-9999,-9999,-9999,-9999,1
-102.100.100/35264,102.100.100/35264,,NRS,PHB20160719_100,2,Other - not recorded in field log sheets| assume 2 L as per protocol,WARNING: Storage or transport conditions compromised,"Sampling observations - Sappharina sp., after filtering the sterivex filter dark colour compared to normal",-9999,-9999,-9999,-9999,1
+102.100.100/35264,102.100.100/35264,,NRS,PHB20160719_100,2,Other - not recorded in field log sheets| assume 2 L as per protocol,WARNING: Storage or transport conditions compromised,Sampling observations - Sappharina sp.; after filtering the sterivex filter dark colour compared to normal,-9999,-9999,-9999,-9999,1
 102.100.100/35261,102.100.100/35261,,NRS,PHB20160719_25,2,Other - not recorded in field log sheets| assume 2 L as per protocol,WARNING: Storage or transport conditions compromised,Sampling observations - Sappharina sp.,-9999,-9999,-9999,-9999,1
 102.100.100/35262,102.100.100/35262,,NRS,PHB20160719_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,WARNING: Storage or transport conditions compromised,Sampling observations - Sappharina sp.,-9999,-9999,-9999,-9999,1
 102.100.100/35263,102.100.100/35263,,NRS,PHB20160719_75,2,Other - not recorded in field log sheets| assume 2 L as per protocol,WARNING: Storage or transport conditions compromised,Sampling observations - Sappharina sp.,-9999,-9999,-9999,-9999,1
@@ -1954,8 +1954,8 @@ sample_id,source_mat_id,Extraction Number,imos_project,nrs_sample_code,samp_size
 102.100.100/139785,102.100.100/139785,277,NRS,PHB20180528_0,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,-9999,-9999,-9999,-9999,1
 102.100.100/139947,102.100.100/139947,457,NRS,PHB20180528_100,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,-9999,-9999,-9999,-9999,1
 102.100.100/403025,102.100.100/403025,278,NRS,PHB20180528_25,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,-9999,-9999,-9999,-9999,1
-102.100.100/141285,102.100.100/141285,279,NRS,PHB20180528_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"sample 102.100.100/141285 sequenced twice for all 3 amplicons, also as 102.100.100/403033",-9999,-9999,-9999,-9999,1
-102.100.100/403033,102.100.100/141285,279,NRS,PHB20180528_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,"sample 102.100.100/141285 sequenced twice for all 3 amplicons, also as 102.100.100/403033",-9999,-9999,-9999,-9999,1
+102.100.100/141285,102.100.100/141285,279,NRS,PHB20180528_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,sample 102.100.100/141285 sequenced twice for all 3 amplicons; also as 102.100.100/403033,-9999,-9999,-9999,-9999,1
+102.100.100/403033,102.100.100/141285,279,NRS,PHB20180528_50,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,sample 102.100.100/141285 sequenced twice for all 3 amplicons; also as 102.100.100/403033,-9999,-9999,-9999,-9999,1
 102.100.100/139786,102.100.100/139786,281,NRS,PHB20180724_0,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,-9999,-9999,-9999,-9999,1
 102.100.100/139948,102.100.100/139948,679,NRS,PHB20180724_100,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,-9999,-9999,-9999,-9999,1
 102.100.100/141286,102.100.100/141286,282,NRS,PHB20180724_25,2,Other - not recorded in field log sheets| assume 2 L as per protocol,,,-9999,-9999,-9999,-9999,1
@@ -2220,7 +2220,7 @@ sample_id,source_mat_id,Extraction Number,imos_project,nrs_sample_code,samp_size
 102.100.100/405429,102.100.100/405429,3663,NRS,PHB20241106_50,-9999,,,,2.94,meth_3.3.3,-9999,-9999,1
 102.100.100/684920,102.100.100/684920,3782,NRS,PHB20250202_0,-9999,,,,14.1,meth_3.3.3,-9999,-9999,1
 102.100.100/685001,102.100.100/685001,3785,NRS,PHB20250202_100,-9999,,,,3.83,meth_3.3.3,-9999,-9999,1
-102.100.100/684992,102.100.100/684992,3783,NRS,PHB20250202_25,-9999,,,"Sample mislabelled in lab as 102.100.100/984992, corrected to 102.100.100/684992 before sending to sequencing",14.8,meth_3.3.3,-9999,-9999,1
+102.100.100/684992,102.100.100/684992,3783,NRS,PHB20250202_25,-9999,,,Sample mislabelled in lab as 102.100.100/984992; corrected to 102.100.100/684992 before sending to sequencing,14.8,meth_3.3.3,-9999,-9999,1
 102.100.100/684997,102.100.100/684997,3784,NRS,PHB20250202_50,-9999,,,,3.01,meth_3.3.3,-9999,-9999,1
 102.100.100/684924,102.100.100/684924,3786,NRS,PHB20250310_0,-9999,,,,0.0127,meth_3.3.3,-9999,-9999,1
 102.100.100/685015,102.100.100/685015,3789,NRS,PHB20250310_100,-9999,,,,0.0126,meth_3.3.3,-9999,-9999,1
@@ -2921,9 +2921,9 @@ sample_id,source_mat_id,Extraction Number,imos_project,nrs_sample_code,samp_size
 102.100.100/400872,102.100.100/400872,2124,NRS,YON20220603_0,2,,,,-9999,-9999,-9999,-9999,1
 102.100.100/405241,102.100.100/405241,2126,NRS,YON20220603_20,2,,,,-9999,-9999,-9999,-9999,1
 102.100.100/400897,102.100.100/400897,2127,NRS,YON20220603_26,2,,,,-9999,-9999,-9999,-9999,1
-102.100.100/400873,102.100.100/400873,2128,NRS,YON20220617_0,2,,Other - filters at -20 C post filtering before being transferred to -80 C next day ,,-9999,-9999,-9999,-9999,1
-102.100.100/405242,102.100.100/405242,2130,NRS,YON20220617_20,2,,Other - filters at -20 C post filtering before being transferred to -80 C next day ,,-9999,-9999,-9999,-9999,1
-102.100.100/400898,102.100.100/400898,2131,NRS,YON20220617_26,2,,Other - filters at -20 C post filtering before being transferred to -80 C next day ,,-9999,-9999,-9999,-9999,1
+102.100.100/400873,102.100.100/400873,2128,NRS,YON20220617_0,2,,Other - filters at -20 C post filtering before being transferred to -80 C next day,,-9999,-9999,-9999,-9999,1
+102.100.100/405242,102.100.100/405242,2130,NRS,YON20220617_20,2,,Other - filters at -20 C post filtering before being transferred to -80 C next day,,-9999,-9999,-9999,-9999,1
+102.100.100/400898,102.100.100/400898,2131,NRS,YON20220617_26,2,,Other - filters at -20 C post filtering before being transferred to -80 C next day,,-9999,-9999,-9999,-9999,1
 102.100.100/400913,102.100.100/400913,2251,NRS,YON20220726_0,2,,,,-9999,-9999,-9999,-9999,1
 102.100.100/403738,102.100.100/403738,3331,NRS,YON20220726_20,2,,,,5.11,meth_3.3.3,-9999,-9999,1
 102.100.100/400934,102.100.100/400934,2252,NRS,YON20220726_26,2,,,,-9999,-9999,-9999,-9999,1
@@ -3014,7 +3014,7 @@ sample_id,source_mat_id,Extraction Number,imos_project,nrs_sample_code,samp_size
 102.100.100/405404,102.100.100/405404,3698,NRS,YON20241215_0,2,,,,0.0981,meth_3.3.3,-9999,-9999,1
 102.100.100/405447,102.100.100/405447,3699,NRS,YON20241215_20,2,,,,12.8,meth_3.3.3,-9999,-9999,1
 102.100.100/405448,102.100.100/405448,3700,NRS,YON20241215_26,2,,,,12.8,meth_3.3.3,-9999,-9999,1
-102.100.100/405405,102.100.100/405405,3702,NRS,YON20250118_0,2,,,"Sampling observations - red spots on filter, Sargassum?",22.8,meth_3.3.3,-9999,-9999,1
+102.100.100/405405,102.100.100/405405,3702,NRS,YON20250118_0,2,,,Sampling observations - red spots on filter; Sargassum?,22.8,meth_3.3.3,-9999,-9999,1
 102.100.100/405449,102.100.100/405449,3703,NRS,YON20250118_20,2,,,,23.7,meth_3.3.3,-9999,-9999,1
 102.100.100/405450,102.100.100/405450,3704,NRS,YON20250118_26,2,,,,23.5,meth_3.3.3,-9999,-9999,1
 102.100.100/405406,102.100.100/405406,3706,NRS,YON20250207_0,2,,,,15.6,meth_3.3.3,-9999,-9999,1
