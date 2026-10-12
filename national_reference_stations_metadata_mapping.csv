@@ -3371,17 +3371,17 @@ sample_id,source_mat_id,Extraction Number,imos_project,nrs_sample_code,sample_ty
 ,,4208,NRS,YON20260224_20,Pelagic,,,,,16.8,meth_3.3.3,-9999,-9999,1
 ,,4209,NRS,YON20260224_26,Pelagic,,,WARNING: Potential post sampling contamination,ant in capsule noticed as removing lysis buffer,13.7,meth_3.3.3,-9999,-9999,1
 ,,4206,NRS,YON20260224_control,Filtration control,2,,,,0.0102,meth_3.3.3,-9999,-9999,1
-102.100.100/684956,CS_214,,IMOS eDNA pilot,CS_214,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/684987,CS_214,,IMOS eDNA pilot,CS_214,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/684961,CS_215,,IMOS eDNA pilot,CS_215,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/684991,CS_215,,IMOS eDNA pilot,CS_215,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/703049,CS_216,,IMOS eDNA pilot,CS_216,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/684996,CS_216,,IMOS eDNA pilot,CS_216,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/684970,CS_217,,IMOS eDNA pilot,CS_217,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/685000,CS_217,,IMOS eDNA pilot,CS_217,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/685021,CS_224,,IMOS eDNA pilot,CS_224,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/685025,CS_225,,IMOS eDNA pilot,CS_225,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/703051,CS_226,,IMOS eDNA pilot,CS_226,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/684956,CS_214,,IMOS eDNA pilot,Coral_Sea_214-Rep1,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/684987,CS_214,,IMOS eDNA pilot,Coral_Sea_214-Rep2,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/684961,CS_215,,IMOS eDNA pilot,Coral_Sea_215-Rep1,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/684991,CS_215,,IMOS eDNA pilot,Coral_Sea_215-Rep2,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/703049,CS_216,,IMOS eDNA pilot,Coral_Sea_216-Rep1,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/684996,CS_216,,IMOS eDNA pilot,Coral_Sea_216-Rep2,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/684970,CS_217,,IMOS eDNA pilot,Coral_Sea_217-Rep1,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/685000,CS_217,,IMOS eDNA pilot,Coral_Sea_217-Rep2,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/685021,CS_224,,IMOS eDNA pilot,Coral_Sea_224,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/685025,CS_225,,IMOS eDNA pilot,Coral_Sea_225,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/703051,CS_226,,IMOS eDNA pilot,Coral_Sea_226,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
 102.100.100/684758,102.100.100/684758,,IMOS eDNA pilot,FW fish DNA-PCR1,Mock,,,,1:100 dilution of DNA,,,-9999,-9999,1
 102.100.100/684790,102.100.100/684758,,IMOS eDNA pilot,FW fish DNA-PCR2,Mock,,,,1:100 dilution of DNA,,,-9999,-9999,1
 102.100.100/684825,102.100.100/684758,,IMOS eDNA pilot,FW fish DNA-PCR3,Mock,,,,1:100 dilution of DNA,,,-9999,-9999,1
