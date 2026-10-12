@@ -3432,7 +3432,7 @@ sample_id,source_mat_id,Extraction Number,imos_project,nrs_sample_code,sample_ty
 102.100.100/685013,102.100.100/684721,,IMOS eDNA pilot,No_template_control,No template control,,,,Nuclease free water,-9999,-9999,-9999,-9999,1
 102.100.100/685031,102.100.100/684721,,IMOS eDNA pilot,No_template_control,No template control,,,,Nuclease free water,-9999,-9999,-9999,-9999,1
 102.100.100/703050,102.100.100/703050,,IMOS eDNA pilot,Odonata,Mock,,,,Odonata sp. Tissue DNA,,,-9999,-9999,1
-102.100.100/685004,102.100.100/685004,,IMOS eDNA pilot,PCR_posC2_inverts_1in100,MOCK,,,,1:100 dilution of DNA,,,-9999,-9999,1
+102.100.100/685004,102.100.100/685004,,IMOS eDNA pilot,PCR_posC2_inverts_1in100,Mock,,,,1:100 dilution of DNA,,,-9999,-9999,1
 102.100.100/684861,102.100.100/684861,58,IMOS eDNA pilot,MAI20220510-PCR1,Plankton,,,,1:100 dilution of DNA,36.1,meth_3.3.3,-9999,-9999,1
 102.100.100/684893,102.100.100/684861,58,IMOS eDNA pilot,MAI20220510-PCR2,Plankton,,,,1:100 dilution of DNA,36.1,meth_3.3.3,-9999,-9999,1
 102.100.100/684925,102.100.100/684861,58,IMOS eDNA pilot,MAI20220510-PCR3,Plankton,,,,1:100 dilution of DNA,36.1,meth_3.3.3,-9999,-9999,1
