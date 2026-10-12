@@ -2880,7 +2880,7 @@ sample_id,source_mat_id,Extraction Number,imos_project,nrs_sample_code,sample_ty
 102.100.100/404836,102.100.100/404836,3991,NRS,ROT20250909_0,Pelagic,,,,,5.84,meth_3.3.3,-9999,-9999,1
 102.100.100/404880,102.100.100/404880,3992,NRS,ROT20250909_20,Pelagic,,,,,9.04,meth_3.3.3,-9999,-9999,1
 102.100.100/404881,102.100.100/404881,3993,NRS,ROT20250909_46,Pelagic,,,,,8.56,meth_3.3.3,-9999,-9999,1
-102.100.100/404879,102.100.100/404879,3990,NRS,ROT20250909_control,Filtration control,,,,,4.05E-05,meth_3.3.3,-9999,-9999,1
+102.100.100/404879,102.100.100/404879,3990,NRS,ROT20250909_control,Filtration control,,,,,4.05e-05,meth_3.3.3,-9999,-9999,1
 102.100.100/404837,102.100.100/404837,3995,NRS,ROT20250923_0,Pelagic,,,,,2.47,meth_3.3.3,-9999,-9999,1
 102.100.100/404883,102.100.100/404883,3996,NRS,ROT20250923_20,Pelagic,,,,,6.14,meth_3.3.3,-9999,-9999,1
 102.100.100/404884,102.100.100/404884,3997,NRS,ROT20250923_46,Pelagic,,,,,6.72,meth_3.3.3,-9999,-9999,1
@@ -3371,17 +3371,17 @@ sample_id,source_mat_id,Extraction Number,imos_project,nrs_sample_code,sample_ty
 ,,4208,NRS,YON20260224_20,Pelagic,,,,,16.8,meth_3.3.3,-9999,-9999,1
 ,,4209,NRS,YON20260224_26,Pelagic,,,WARNING: Potential post sampling contamination,ant in capsule noticed as removing lysis buffer,13.7,meth_3.3.3,-9999,-9999,1
 ,,4206,NRS,YON20260224_control,Filtration control,2,,,,0.0102,meth_3.3.3,-9999,-9999,1
-102.100.100/684956,CS_214,,IMOS eDNA pilot,CS_214,Pelagic,10,0.45 µm Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/684987,CS_214,,IMOS eDNA pilot,CS_214,Pelagic,10,0.45 µm Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/684961,CS_215,,IMOS eDNA pilot,CS_215,Pelagic,10,0.45 µm Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/684991,CS_215,,IMOS eDNA pilot,CS_215,Pelagic,10,0.45 µm Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/703049,CS_216,,IMOS eDNA pilot,CS_216,Pelagic,10,0.45 µm Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/684996,CS_216,,IMOS eDNA pilot,CS_216,Pelagic,10,0.45 µm Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/684970,CS_217,,IMOS eDNA pilot,CS_217,Pelagic,10,0.45 µm Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/685000,CS_217,,IMOS eDNA pilot,CS_217,Pelagic,10,0.45 µm Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/685021,CS_224,,IMOS eDNA pilot,CS_224,Pelagic,10,0.45 µm Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/685025,CS_225,,IMOS eDNA pilot,CS_225,Pelagic,10,0.45 µm Millipore  MCE 47 mm,,,,,-9999,-9999,1
-102.100.100/703051,CS_226,,IMOS eDNA pilot,CS_226,Pelagic,10,0.45 µm Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/684956,CS_214,,IMOS eDNA pilot,CS_214,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/684987,CS_214,,IMOS eDNA pilot,CS_214,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/684961,CS_215,,IMOS eDNA pilot,CS_215,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/684991,CS_215,,IMOS eDNA pilot,CS_215,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/703049,CS_216,,IMOS eDNA pilot,CS_216,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/684996,CS_216,,IMOS eDNA pilot,CS_216,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/684970,CS_217,,IMOS eDNA pilot,CS_217,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/685000,CS_217,,IMOS eDNA pilot,CS_217,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/685021,CS_224,,IMOS eDNA pilot,CS_224,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/685025,CS_225,,IMOS eDNA pilot,CS_225,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
+102.100.100/703051,CS_226,,IMOS eDNA pilot,CS_226,Pelagic,10,0.45 um Millipore  MCE 47 mm,,,,,-9999,-9999,1
 102.100.100/684758,102.100.100/684758,,IMOS eDNA pilot,FW fish DNA-PCR1,Mock,,,,1:100 dilution of DNA,,,-9999,-9999,1
 102.100.100/684790,102.100.100/684758,,IMOS eDNA pilot,FW fish DNA-PCR2,Mock,,,,1:100 dilution of DNA,,,-9999,-9999,1
 102.100.100/684825,102.100.100/684758,,IMOS eDNA pilot,FW fish DNA-PCR3,Mock,,,,1:100 dilution of DNA,,,-9999,-9999,1
